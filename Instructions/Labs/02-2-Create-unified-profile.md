@@ -95,7 +95,7 @@ Dans cet exercice, nous allons configurer des critères de recherche et de filtr
 1. Dans Customer Insights, sélectionnez **Clients** dans le menu de navigation de gauche.
 2. Sélectionnez **Index Rechercher et Filtrer**.
 3. Certains champs spécifiques à la recherche client sont déjà ajoutés par défaut et vous pouvez en ajouter d’autres en sélectionnant **+ Ajouter** dans la barre d’outils.
-4. Vérifiez que **CustomerId, FirstName, LastName, FullName, DateOfBirth, EMail, PostCode, Headshot, ContactId (eCommerce_Contacts)** et **LoyaltyId** sont sélectionnés. Désélectionnez tous les autres champs cochés. Sélectionnez **Appliquer**.
+4. Vérifiez que **CustomerId, FirstName, LastName, FullName, DateOfBirth, EMail, PostCode, ContactId (eCommerce_Contacts)** et **LoyaltyId** sont sélectionnés. Désélectionnez tous les autres champs cochés. Sélectionnez **Appliquer**.
 5. Cliquez sur **Enregistrer**.
 
 ### Tâche 2 : rechercher un enregistrement client
